@@ -1,3 +1,9 @@
+<!-- project-overview:start -->
+> **项目简介**：支持多种存储通道的自托管图床与文件管理工具，提供上传、检索、管理和访问控制。
+>
+> 本仓库是 [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) 的 Fork；下方保留项目文档与原有署名。
+<!-- project-overview:end -->
+
 <div align="center">
     <a href="https://github.com/MarSeventh/CloudFlare-ImgBed">
         <picture>
